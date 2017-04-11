@@ -1,0 +1,19 @@
+.image {
+  width:100%;
+}
+.dotted-border {
+  /*border: 1px dotted #e9e9e9;*/
+  background-color: #e9e9e9;
+}
+.dino-card {
+  width: 300px;
+  padding: 10px;
+}
+.row {
+  background-color: navajowhite;
+  margin: 20px 0px;
+}
+.jumbotron {
+  background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/05/11/jurassic-park.jpg");
+  background-size: cover;
+}
