@@ -9,8 +9,11 @@
   width: 300px;
   padding: 10px;
 }
+.output .row:nth-of-type(2n) {
+  background-color: tomato;
+}
 .row {
-  background-color: navajowhite;
+  /*background-color: navajowhite;*/
   margin: 20px 0px;
 }
 .jumbotron {
